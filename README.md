@@ -38,9 +38,13 @@ These are some of the technologies I'm familiar with:
     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
     <a href="https://wordpress.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/></a>
 </p>
+
 <br/>
-And these are others I'm currently researching and working with 
+
+<p>And these are others I'm currently researching and working with</p>
+
 <br/>
+
 <p align="center">
     <a href="https://astro.build/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/A/astro-logo-B3B4DABB0A-seeklogo.com.png" alt="astro" width="40" height="40"/></a>
     <a href="https://www.blockchain.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/officel/80/000000/blockchain.png" alt="blockchain" width="40" height="40"/></a>
