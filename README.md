@@ -6,17 +6,18 @@ I'm Moisés, a FullStack Developer 💻 with a background in Robotics 🦾, part
 
 My passion is learning, and if possible, sharing that knowledge with others 👥 in the best way I can.
 
-<h4>My Skills 🥷</h4>
+<h3>My Skills 🥷</h3>
 
-These are a few things I'm currently into:
-<br>
+These are some of the technologies I'm familiar with:
+<br/>
+<br/>
 <p align="center"> 
     <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>
     <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.apache.org/logos/res/httpd/default.png" alt="apache" width="110" height="40"/></a>
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a><br>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a><br/>
     <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/></a>
     <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
@@ -37,9 +38,9 @@ These are a few things I'm currently into:
     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
     <a href="https://wordpress.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/></a>
 </p>
-
-And these are some of the things I'm currently learning about:
-<br>
+<br/>
+And these are others I'm currently researching and working with 
+<br/>
 <p align="center">
     <a href="https://astro.build/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/A/astro-logo-B3B4DABB0A-seeklogo.com.png" alt="astro" width="40" height="40"/></a>
     <a href="https://www.blockchain.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/officel/80/000000/blockchain.png" alt="blockchain" width="40" height="40"/></a>
@@ -53,11 +54,11 @@ And these are some of the things I'm currently learning about:
     <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
 </p>
 
-<br>
+<br/>
 
-<h5>About my projects:</h5>
+<h3>About my projects 💡</h3>
 
-I have several ongoing projects, but the most significant one is the _Project Monitor_ project. This initiative involves developing software using Tauri, aimed at monitoring, running, and editing all aspects of a project, including frontend, backend, Docker, Kubernetes, and more. Since this project is a personal endeavor, it's still a work in progress. However, once completed, I intend to showcase it more prominently here. You can explore my other noteworthy projects in the pinned section below.
+I have several ongoing projects, but the most significant one is the _![Project Monitor](https://github.com/mochyfm/project-monitor)_ project. This initiative involves developing software using Tauri, aimed at monitoring, running, and editing all aspects of a project, including frontend, backend, Docker, Kubernetes, and more. Since this project is a personal endeavor, it's still a work in progress. However, once completed, I intend to showcase it more prominently here. You can explore my other noteworthy projects in the pinned section below.
 
 <h4>Courses I do recommend: </h4>
 
@@ -90,7 +91,7 @@ I love to watch courses. Here are some I have purchased and where I have spent s
 
 <br/>
 
-<h4 align="center">🚀 Connect with me 😄</h4>
+<h3 align="center">🚀 Connect with me 😄</h3>
 
 <br>
 
