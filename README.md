@@ -95,7 +95,7 @@ I love to watch courses. Here are some I have purchased and where I have spent s
 <br>
 
 <p align="center">
-    <a href="https://instagram.com/@_moisesfm_" target="_blank"><img src="https://img.shields.io/badge/@__moisesfm__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="@_moisesfm_" /></a>
+    <a href="https://instagram.com/_moisesfm_" target="_blank"><img src="https://img.shields.io/badge/__moisesfm__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="_moisesfm_" /></a>
     <a href="https://linkedin.com/in/moisés-fernández-521568253/" target="_blank"><img src="https://img.shields.io/badge/Moisés-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Moisés" /></a>
     <a href="https://discordapp.com/users/moisesfm" target="_blank"><img src="https://img.shields.io/badge/moisesfm-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="moisesfm" /></a>
     <a href="https://steamcommunity.com/id/mochyfm/" target="_blank"><img src="https://img.shields.io/badge/Wolfen-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Wolfen" /></a>
