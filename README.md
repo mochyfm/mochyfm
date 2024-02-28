@@ -54,7 +54,7 @@ These are some of the technologies I'm familiar with:
     <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40"/></a>
     <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/rust.svg" alt="rust" width="40" height="40"/></a>
     <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/80/000000/solidity.png" alt="solidity" width="40" height="40"/></a>
-    <a href="https://tauri.studio/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/tauri-1.svg" alt="tauri" width="40" height="40"/></a>
+    <a href="https://tauri.app/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/tauri-1.svg" alt="tauri" width="40" height="40"/></a>
     <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
 </p>
 
@@ -73,23 +73,23 @@ I love to watch courses. Here are some I have purchased and where I have spent s
 <h5> In english: </h5>
 
 <a href="https://www.udemy.com/course/docker-kubernetes-the-practical-guide" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Docker_&_Kubernetes:_The_Practical_Guide?style=for-the-badge&logo=udemy&labelColor=black" alt="Docker & Kubernetes: The Practical Guide"/>
+    <img src="https://img.shields.io/badge/Docker_&_Kubernetes:_The_Practical_Guide-_-black?style=for-the-badge&logo=udemy&labelColor=black&color=white" alt="Docker & Kubernetes: The Practical Guide"/>
 </a>
 <a href="https://www.udemy.com/course/build-your-blockchain-az" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Blockchain_A_/_Z:_Build_a_Blockchain,_a_Crypto_and_contracts_with_solidity?style=for-the-badge&logo=udemy&labelColor=black" alt="Blockchain A-Z: Build a Blockchain, a Crypto"/>
+    <img src="https://img.shields.io/badge/Blockchain_A_/_Z:_Build_a_Blockchain,_a_Crypto_and_contracts_with_solidity-_-black?style=for-the-badge&logo=udemy&labelColor=black&color=white" alt="Blockchain A-Z: Build a Blockchain, a Crypto"/>
 </a>
 <a href="https://www.udemy.com/course/machinelearning" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Machine_Learning_A_/_Z:_AI,_Python_&_R?style=for-the-badge&logo=udemy&labelColor=black" alt="Machine Learning A-Z: AI, Python & R"/>
+    <img src="https://img.shields.io/badge/Machine_Learning_A_/_Z:_AI,_Python_&_R-_-black?style=for-the-badge&logo=udemy&labelColor=black&color=white" alt="Machine Learning A-Z: AI, Python & R"/>
 </a>
 <br/>
 <h5> En español: </h5>
 
 <a href="https://www.udemy.com/course/master-en-php-sql-poo-mvc-laravel-symfony-4-wordpress" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Master en PHP, SQL, POO, MVC, Laravel, Symfony, WordPress y mas?style=for-the-badge&logo=udemy&labelColor=black" alt="Master en PHP, SQL,POO,MVC,Laravel,Symfony,WordPress y +"/>
+    <img src="https://img.shields.io/badge/Master en PHP, SQL, POO, MVC, Laravel, Symfony, WordPress y mas-_-black?style=for-the-badge&logo=udemy&labelColor=black&color=white" alt="Master en PHP, SQL,POO,MVC,Laravel,Symfony,WordPress y +"/>
 </a>
 
 <a href="https://www.udemy.com/course/bootcamp-blockchain-cero-experto" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Máster Completo de Blockchain y Web3 de cero a experto?style=for-the-badge&logo=udemy&labelColor=black" alt="Máster Completo de Blockchain y Web3 de cero a experto"/>
+    <img src="https://img.shields.io/badge/Máster Completo de Blockchain y Web3 de cero a experto-_-black?style=for-the-badge&logo=udemy&labelColor=black&color=white" alt="Máster Completo de Blockchain y Web3 de cero a experto"/>
 </a>
 </p>
 
