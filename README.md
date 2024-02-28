@@ -10,7 +10,7 @@ My passion is learning, and if possible, sharing that knowledge with others 👥
 
 These are a few things I'm currently into:
 
-<p align="center">
+<p align="center" style="background-color: #ffffff; padding: 20px;"> 
     <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>
     <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.apache.org/logos/res/httpd/default.png" alt="apache" width="110" height="40"/></a>
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
@@ -40,15 +40,14 @@ These are a few things I'm currently into:
 
 And these are some of the things I'm currently learning about:
 
-<p align="center">
+<p align="center" style="background-color: #ffffff; padding: 20px;">
     <a href="https://astro.build/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/A/astro-logo-B3B4DABB0A-seeklogo.com.png" alt="astro" width="40" height="40"/></a>
     <a href="https://www.blockchain.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/officel/80/000000/blockchain.png" alt="blockchain" width="40" height="40"/></a>
     <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" 
     alt="kubernetes" width="40" height="40"/></a>
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="40" height="40"/>
-    </a>
-    <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
+    </a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
     <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40"/></a>
     <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/rust.svg" alt="rust" width="40" height="40"/></a>
     <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/80/000000/solidity.png" alt="solidity" width="40" height="40"/></a>
