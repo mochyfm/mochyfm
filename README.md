@@ -45,8 +45,7 @@ And these are some of the things I'm currently learning about:
     <a href="https://www.blockchain.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/officel/80/000000/blockchain.png" alt="blockchain" width="40" height="40"/></a>
     <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" 
     alt="kubernetes" width="40" height="40"/></a>
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="40" height="40"/>
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="40" height="40"/></a>
     <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40"/></a>
     <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/rust.svg" alt="rust" width="40" height="40"/></a>
     <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/80/000000/solidity.png" alt="solidity" width="40" height="40"/></a>
