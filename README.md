@@ -68,23 +68,23 @@ I love to watch courses. Here are some I have purchased and where I have spent s
 <h5> In english: </h5>
 
 <a href="https://www.udemy.com/course/docker-kubernetes-the-practical-guide" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Docker_&_Kubernetes:_The_Practical_Guide--white?style=for-the-badge&logo=udemy&labelColor=black" alt="Docker & Kubernetes: The Practical Guide"/>
+    <img src="https://img.shields.io/badge/Docker_&_Kubernetes:_The_Practical_Guide?style=for-the-badge&logo=udemy&labelColor=black" alt="Docker & Kubernetes: The Practical Guide"/>
 </a>
 <a href="https://www.udemy.com/course/build-your-blockchain-az" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Blockchain_A_/_Z:_Build_a_Blockchain,_a_Crypto_and_contracts_with_solidity--white?style=for-the-badge&logo=udemy&labelColor=black" alt="Blockchain A-Z: Build a Blockchain, a Crypto"/>
+    <img src="https://img.shields.io/badge/Blockchain_A_/_Z:_Build_a_Blockchain,_a_Crypto_and_contracts_with_solidity?style=for-the-badge&logo=udemy&labelColor=black" alt="Blockchain A-Z: Build a Blockchain, a Crypto"/>
 </a>
 <a href="https://www.udemy.com/course/machinelearning" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Machine_Learning_A_/_Z:_AI,_Python_&_R--white?style=for-the-badge&logo=udemy&labelColor=black" alt="Machine Learning A-Z: AI, Python & R"/>
+    <img src="https://img.shields.io/badge/Machine_Learning_A_/_Z:_AI,_Python_&_R?style=for-the-badge&logo=udemy&labelColor=black" alt="Machine Learning A-Z: AI, Python & R"/>
 </a>
 <br/>
 <h5> En español: </h5>
 
 <a href="https://www.udemy.com/course/master-en-php-sql-poo-mvc-laravel-symfony-4-wordpress" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Master en PHP, SQL, POO, MVC, Laravel, Symfony, WordPress y+--white?style=for-the-badge&logo=udemy&labelColor=black" alt="Master en PHP, SQL,POO,MVC,Laravel,Symfony,WordPress y +"/>
+    <img src="https://img.shields.io/badge/Master en PHP, SQL, POO, MVC, Laravel, Symfony, WordPress y mas?style=for-the-badge&logo=udemy&labelColor=black" alt="Master en PHP, SQL,POO,MVC,Laravel,Symfony,WordPress y +"/>
 </a>
 
 <a href="https://www.udemy.com/course/bootcamp-blockchain-cero-experto" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Máster Completo de Blockchain y Web3 de cero a experto--white?style=for-the-badge&logo=udemy&labelColor=black" alt="Máster Completo de Blockchain y Web3 de cero a experto"/>
+    <img src="https://img.shields.io/badge/Máster Completo de Blockchain y Web3 de cero a experto?style=for-the-badge&logo=udemy&labelColor=black" alt="Máster Completo de Blockchain y Web3 de cero a experto"/>
 </a>
 </p>
 
@@ -95,20 +95,10 @@ I love to watch courses. Here are some I have purchased and where I have spent s
 <br>
 
 <p align="center">
-<a href="https://instagram.com/@_moisesfm_" target="_blank">
-    <img src="https://img.shields.io/badge/@__moisesfm__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="@_moisesfm_" />
-  </a>
-  <a href="https://linkedin.com/in/moisés-fernández-521568253/" target="_blank">
-    <img src="https://img.shields.io/badge/Moisés-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Moisés" />
-  </a>
-  <a href="https://discordapp.com/users/moisesfm" target="_blank">
-    <img src="https://img.shields.io/badge/moisesfm-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="moisesfm" />
-  </a>
-  <a href="https://steamcommunity.com/id/mochyfm/" target="_blank">
-    <img src="https://img.shields.io/badge/Wolfen-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Wolfen" />
-  </a>
-<a href="https://www.udemy.com/user/moises-fernandez-5/" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/Moisés_Fernández-%23EC5252.svg?style=for-the-badge&logo=udemy&logoColor=white" alt="Udemy" />
-</a>
+    <a href="https://instagram.com/@_moisesfm_" target="_blank"><img src="https://img.shields.io/badge/@__moisesfm__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="@_moisesfm_" /></a>
+    <a href="https://linkedin.com/in/moisés-fernández-521568253/" target="_blank"><img src="https://img.shields.io/badge/Moisés-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Moisés" /></a>
+    <a href="https://discordapp.com/users/moisesfm" target="_blank"><img src="https://img.shields.io/badge/moisesfm-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="moisesfm" /></a>
+    <a href="https://steamcommunity.com/id/mochyfm/" target="_blank"><img src="https://img.shields.io/badge/Wolfen-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Wolfen" /></a>
+    <a href="https://www.udemy.com/user/moises-fernandez-5/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Moisés_Fernández-%23EC5252.svg?style=for-the-badge&logo=udemy&logoColor=white" alt="Udemy" /></a>
 
 </p>
