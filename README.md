@@ -9,7 +9,7 @@ My passion is learning, and if possible, sharing that knowledge with others 👥
 <h4>My Skills 🥷</h4>
 
 These are a few things I'm currently into:
-
+<br>
 <p align="center" style="background-color: #ffffff; padding: 20px;"> 
     <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>
     <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.apache.org/logos/res/httpd/default.png" alt="apache" width="110" height="40"/></a>
@@ -39,8 +39,8 @@ These are a few things I'm currently into:
 </p>
 
 And these are some of the things I'm currently learning about:
-
-<p align="center" style="background-color: #ffffff; padding: 20px;">
+<br>
+<p align="center">
     <a href="https://astro.build/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/A/astro-logo-B3B4DABB0A-seeklogo.com.png" alt="astro" width="40" height="40"/></a>
     <a href="https://www.blockchain.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/officel/80/000000/blockchain.png" alt="blockchain" width="40" height="40"/></a>
     <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" 
