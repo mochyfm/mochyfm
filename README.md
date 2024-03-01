@@ -46,11 +46,11 @@ These are some of the technologies I'm familiar with:
 <br/>
 
 <p align="center">
-    <a href="https://astro.build/" target="_blank" rel="noreferrer"><img src="./img/astro-light.svg" alt="astro" width="40" height="40"/></a>
+    <a href="https://astro.build/" target="_blank" rel="noreferrer"><img src="./img/astro-light.svg" alt="astro" width="110" height="40"/></a>
     <a href="https://www.blockchain.com/" target="_blank" rel="noreferrer"><img src="img/blockchain.svg" alt="blockchain" width="120" height="40"/></a>
     <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="./img/kubernetes.svg" 
     alt="kubernetes" width="40" height="40"/></a>
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="./img/nextjs.svg" alt="nextjs" width="40" height="40"/></a>
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="./img/nextjs.svg" alt="nextjs" width="40" height="40"/></a><br/>
     <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="./img/php.svg" alt="php" width="40" height="40"/></a>
     <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="./img/rust.svg" alt="rust" width="40" height="40"/></a>
     <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"><img src="./img/solidity.svg" alt="solidity" width="40" height="40"/></a>
