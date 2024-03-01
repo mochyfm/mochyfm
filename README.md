@@ -12,31 +12,31 @@ These are some of the technologies I'm familiar with:
 <br/>
 <br/>
 <p align="center"> 
-    <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>
-    <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.apache.org/logos/res/httpd/default.png" alt="apache" width="110" height="40"/></a>
-    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-white.svg" alt="bootstrap" width="40" height="40"/></a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-    <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/></a><br/>
+    <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="./img/angular.svg" alt="angular" width="40" height="40"/></a>
+    <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"><img src="./img/apache.svg" alt="apache" width="40" height="40"/></a>
+    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="./img/arduino.svg" alt="arduino" width="40" height="40"/></a>
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="./img/boostrap.svg" alt="bootstrap" width="43" height="35"/></a>
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="./img/html.svg" alt="html5" width="40" height="40"/></a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="./img/css.svg" alt="css3" width="40" height="40"/></a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="./img/docker.svg" alt="docker" width="40" height="40"/></a>
+    <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"><img src="./img/electron.svg" alt="electron" width="40" height="40"/></a><br/>
     <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="./img/express.svg" alt="express" width="80" height="30"/></a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-    <a href="https://mariadb.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/></a>
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-    <a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg" alt="nestjs" width="60" height="50"/></a>
-    <a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="./img/git.svg" alt="git" width="40" height="40"/></a>
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="./img/linux.svg" alt="linux" width="40" height="40"/></a>
+    <a href="https://mariadb.org/" target="_blank" rel="noreferrer"><img src="./img/mariadb.svg" alt="mariadb" width="40" height="40"/></a>
+    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="./img/sql-server.svg" alt="mssql" width="50" height="40"/></a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="./img/mysql.svg" alt="mysql" width="40" height="40"/></a>
+    <a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="./img/nest.svg" alt="nestjs" width="60" height="50"/></a>
+    <a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img src="./img/nginx.svg" alt="nginx" width="40" height="40"/></a>
     <br>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/></a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a>
-    <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
-    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
-    <a href="https://wordpress.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/></a>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="./img/nodejs.svg" alt="nodejs" width="40" height="40"/></a>
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="./img/postgresql.svg" alt="postgresql" width="40" height="40"/></a>
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="./img/python.svg" alt="python" width="40" height="40"/></a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="./img/react.svg" alt="react" width="40" height="40"/></a>
+    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="./img/react-native.svg" alt="reactnative" width="40" height="40"/></a>
+    <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="./img/springboot.svg" alt="spring" width="40" height="40"/></a>
+    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="./img/sqlite.svg" alt="sqlite" width="40" height="40"/></a>
+    <a href="https://wordpress.org/" target="_blank" rel="noreferrer"><img src="./img/wordpress.svg" alt="wordpress" width="40" height="40"/></a>
 </p>
 
 <br/>
@@ -46,16 +46,16 @@ These are some of the technologies I'm familiar with:
 <br/>
 
 <p align="center">
-    <a href="https://astro.build/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/A/astro-logo-B3B4DABB0A-seeklogo.com.png" alt="astro" width="40" height="40"/></a>
-    <a href="https://www.blockchain.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/officel/80/000000/blockchain.png" alt="blockchain" width="40" height="40"/></a>
-    <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" 
+    <a href="https://astro.build/" target="_blank" rel="noreferrer"><img src="./img/astro-light.svg" alt="astro" width="40" height="40"/></a>
+    <a href="https://www.blockchain.com/" target="_blank" rel="noreferrer"><img src="img/blockchain.svg" alt="blockchain" width="120" height="40"/></a>
+    <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="./img/kubernetes.svg" 
     alt="kubernetes" width="40" height="40"/></a>
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="40" height="40"/></a>
-    <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40"/></a>
-    <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/rust.svg" alt="rust" width="40" height="40"/></a>
-    <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/80/000000/solidity.png" alt="solidity" width="40" height="40"/></a>
-    <a href="https://tauri.app/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/tauri-1.svg" alt="tauri" width="40" height="40"/></a>
-    <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="./img/nextjs.svg" alt="nextjs" width="40" height="40"/></a>
+    <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="./img/php.svg" alt="php" width="40" height="40"/></a>
+    <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="./img/rust.svg" alt="rust" width="40" height="40"/></a>
+    <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"><img src="./img/solidity.svg" alt="solidity" width="40" height="40"/></a>
+    <a href="https://tauri.app/" target="_blank" rel="noreferrer"><img src="./img/tauri.svg" alt="tauri" width="40" height="40"/></a>
+    <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="./img/tensorflow.svg" alt="tensorflow" width="40" height="40"/></a>
 </p>
 
 <br/>
