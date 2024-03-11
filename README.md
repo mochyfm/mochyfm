@@ -102,7 +102,7 @@ I love to watch courses. Here are some I have purchased and where I have spent s
 <p align="center">
     <a href="https://instagram.com/_moisesfm_" target="_blank"><img src="https://img.shields.io/badge/__moisesfm__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="_moisesfm_" /></a>
     <a href="https://www.linkedin.com/in/mois%C3%A9s-fern%C3%A1ndez-mui%C3%B1a-521568253" target="_blank"><img src="https://img.shields.io/badge/Moisés-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Moisés" /></a>
-    <a href="https://discordapp.com/users/moisesfm" target="_blank"><img src="https://img.shields.io/badge/moisesfm-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="moisesfm" /></a>
+    <a href="https://discordapp.com/users/mochyfm" target="_blank"><img src="https://img.shields.io/badge/mochyfm-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="moisesfm" /></a>
     <a href="https://steamcommunity.com/id/mochyfm/" target="_blank"><img src="https://img.shields.io/badge/Wolfen-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Wolfen" /></a>
     <a href="https://www.udemy.com/user/moises-fernandez-5/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Moisés_Fernández-%23EC5252.svg?style=for-the-badge&logo=udemy&logoColor=white" alt="Udemy" /></a>
 
